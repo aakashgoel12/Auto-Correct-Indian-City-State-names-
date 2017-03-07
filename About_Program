@@ -1,0 +1,16 @@
+Aim: To solve the Problem of Mapping the Mis-spelled Indian City or State Name with Ideal one.
+Input: Indian City or State Name
+Output: Correct Indian City or State Name
+
+E.g: 
+Test Case -1 
+
+Input: dli
+Output: delhi
+
+Test Case -2
+
+Input: mumbi
+Output: mumbai
+
+
